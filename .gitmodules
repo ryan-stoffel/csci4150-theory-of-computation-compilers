@@ -1,0 +1,3 @@
+[submodule "projects/project-1-ilp"]
+	path = projects/project-1-ilp
+	url = git@github.com:ryan-stoffel/project-1-ilp.git
